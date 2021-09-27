@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE member_list SYSTEM "daftar_dtd.dtd">
+<member_list>
+    <member id="1">
+        <profile>
+            <photo>sekar.jpg</photo>
+            <fullname>Sekar Madu Kusumawardani</fullname>
+            <profession>Undergraduate Student</profession>
+            <section>Computer Science</section>
+            <instantion>Universitas Pendidikan Indonesia</instantion>
+        </profile>
+        <education>
+            <school type="elementary">
+                <sch_name>SDN Cakung Barat 15 Pagi</sch_name>
+                <sch_from>2008</sch_from>
+                <sch_until>2014</sch_until>
+            </school>
+            <school type="junior-hs">
+                <sch_name>SMP Negeri 1 Klari</sch_name>
+                <sch_from>2014</sch_from>
+                <sch_until>2017</sch_until>
+            </school>
+            <school type="senior-hs">
+                <sch_name>SMK Negeri 1 Karawang</sch_name>
+                <sch_from>2017</sch_from>
+                <sch_until>2020</sch_until>
+            </school>
+            <school type="university">
+                <sch_name>Universitas Pendidikan Indonesia</sch_name>
+                <sch_from>2020</sch_from>
+                <sch_until>Now</sch_until>
+            </school>
+        </education>
+        <organizations>
+            <organization id="1">
+                <org_name>Youth Redcross SMPN 1 Klari</org_name>
+                <org_from>2016</org_from>
+                <org_until>2017</org_until>
+            </organization>
+            <organization id="2">
+                <org_name>Youth Redcross SMKN 1 Karawang</org_name>
+                <org_from>2017</org_from>
+                <org_until>2020</org_until>
+            </organization>
+            <organization id="3">
+                <org_name>Student Council SMKN 1 Karawang</org_name>
+                <org_from>2017</org_from>
+                <org_until>2020</org_until>
+            </organization>
+            <organization id="4">
+                <org_name>Student Union Universitas Pendidikan Indonesia</org_name>
+                <org_from>2021</org_from>
+                <org_until>2022</org_until>
+            </organization>
+        </organizations>
+        <achievements>
+            <achievement id="1">Junior Web Developer SKKNI-based ICT Certification</achievement>
+            <achievement id="2">3rd Place Best Poster in 2nd ASEAN Symposium (ASSEEE) 2021</achievement>
+            <achievement id="3">Presenter in 2nd ASEAN Symposium (ASSEEE) 2021</achievement>
+            <achievement id="4">Bronze Winner in Indonesian Science Competition (Training) 2021</achievement>
+            <achievement id="5">3rd Place Short Movie Competition in Pekan IT Unsika 2019</achievement>
+        </achievements>
+        <courses>
+            <course id="1">Junior Web Developer BPPTIK Kominfo 2021</course>
+            <course id="2">Cloud Practitioner Essentials Dicoding Academy</course>
+            <course id="3">Javascript Fundamental Dicoding Academy</course>
+            <course id="4">Web Development Learning Path Progate Academy</course>
+        </courses>
+        <skills>
+            <skill id="1">
+                <sk_name>Graphic Design</sk_name>
+                <percentage>60</percentage>
+            </skill>
+            <skill id="2">
+                <sk_name>Administration and Management</sk_name>
+                <percentage>60</percentage>
+            </skill>
+            <skill id="3">
+                <sk_name>Web Development</sk_name>
+                <percentage>60</percentage>
+            </skill>
+        </skills>
+        <hobbies>
+            <hobby id="1">Cycling</hobby>
+            <hobby id="2">Coding</hobby>
+            <hobby id="3">Sleeping</hobby>
+        </hobbies>
+        <contacts>
+            <email>sekarmadu99@gmail.com</email>
+            <phone_number>089691798633</phone_number>
+            <instagram_account>https://www.instagram.com/sekarmk03/</instagram_account>
+            <linkedin>https://www.linkedin.com/in/sekar-madu-kusumawardani-428681177</linkedin>
+            <facebook>https://m.facebook.com/frisca.khansa</facebook>
+        </contacts>
+    </member>
+    <member id="2">
+        <profile>
+            <photo>arik.jpg</photo>
+            <fullname>Arik Rizki Akbar</fullname>
+            <profession>Undergraduate Student</profession>
+            <section>Computer Science</section>
+            <instantion>Universitas Pendidikan Indonesia</instantion>
+        </profile>
+        <education>
+            <school type="elementary">
+                <sch_name>SD Negeri Kancana</sch_name>
+                <sch_from>2008</sch_from>
+                <sch_until>2014</sch_until>
+            </school>
+            <school type="junior-hs">
+                <sch_name>SMP Negeri 1 Talaga</sch_name>
+                <sch_from>2014</sch_from>
+                <sch_until>2017</sch_until>
+            </school>
+            <school type="senior-hs">
+                <sch_name>SMA Negeri 1 Talaga</sch_name>
+                <sch_from>2017</sch_from>
+                <sch_until>2020</sch_until>
+            </school>
+            <school type="university">
+                <sch_name>Universitas Pendidikan Indonesia</sch_name>
+                <sch_from>2020</sch_from>
+                <sch_until>Now</sch_until>
+            </school>
+        </education>
+        <organizations>
+            <organization id="1">
+                <org_name>Student Council SMPN 1 Talaga</org_name>
+                <org_from>2017</org_from>
+                <org_until>2019</org_until>
+            </organization>
+            <organization id="2">
+                <org_name>Young Scientific Paper SMAN 1 Talaga</org_name>
+                <org_from>2017</org_from>
+                <org_until>2019</org_until>
+            </organization>
+        </organizations>
+        <achievements>
+            <achievement id="1">2nd Physics Olimpiad in SMAN 1 Talaga</achievement>
+            <achievement id="2">MVP and Terminator PUBGM Parampa 2021 FPMIPA UPI</achievement>
+            <achievement id="3">1st Place Sack Race in Celebrating Indonesia's Independence Day</achievement>
+        </achievements>
+        <courses>
+            <course id="1">Workshop Building the Architectural Data with REST API</course>
+        </courses>
+        <skills>
+            <skill id="1">
+                <sk_name>Graphic Design</sk_name>
+                <percentage>70</percentage>
+            </skill>
+            <skill id="2">
+                <sk_name>Gaming</sk_name>
+                <percentage>85</percentage>
+            </skill>
+            <skill id="3">
+                <sk_name>Driving Motorcycle</sk_name>
+                <percentage>99</percentage>
+            </skill>
+            <skill id="4">
+                <sk_name>Ms. Office</sk_name>
+                <percentage>75</percentage>
+            </skill>
+        </skills>
+        <hobbies>
+            <hobby id="1">Gaming</hobby>
+            <hobby id="2">Driving</hobby>
+        </hobbies>
+        <contacts>
+            <email>arfha.albar21@gmail.com</email>
+            <phone_number>085846673985</phone_number>
+            <instagram_account>https://www.instagram.com/arikr.a/</instagram_account>
+            <linkedin></linkedin>
+            <facebook>https://www.facebook.com/arfha.nivans21/</facebook>
+        </contacts>
+    </member>
+    <member id="3">
+        <profile>
+            <photo>julia.jpeg</photo>
+            <fullname>Julia Elisabeth Sitanggang</fullname>
+            <profession>Undergraduate Student</profession>
+            <section>Computer Science</section>
+            <instantion>Universitas Pendidikan Indonesia</instantion>
+        </profile>
+        <education>
+            <school type="elementary">
+                <sch_name>SD Eppata II Batam</sch_name>
+                <sch_from>2008</sch_from>
+                <sch_until>2014</sch_until>
+            </school>
+            <school type="junior-hs">
+                <sch_name>SMP Negeri 3 Batam</sch_name>
+                <sch_from>2014</sch_from>
+                <sch_until>2017</sch_until>
+            </school>
+            <school type="senior-hs">
+                <sch_name>SMA Negeri 2 Cimahi</sch_name>
+                <sch_from>2017</sch_from>
+                <sch_until>2020</sch_until>
+            </school>
+            <school type="university">
+                <sch_name>Universitas Pendidikan Indonesia</sch_name>
+                <sch_from>2020</sch_from>
+                <sch_until>Now</sch_until>
+            </school>
+        </education>
+        <organizations>
+            <organization id="1">
+                <org_name>SSB (Sanggar Seni Budaya)</org_name>
+                <org_from>2017</org_from>
+                <org_until>2019</org_until>
+            </organization>
+            <organization id="2">
+                <org_name>DPM KEMAKOM FPMIPA UPI</org_name>
+                <org_from>2021</org_from>
+                <org_until>2022</org_until>
+            </organization>
+        </organizations>
+        <achievements>
+            <achievement id="1">1st Place Wonder Dance Competition 2018</achievement>
+            <achievement id="2">1st Place Best Poster in 2nd ASEAN Symposium (ASSEEE) 2021</achievement>
+            <achievement id="3">Presenter in 2nd ASEAN Symposium (ASSEEE) 2021</achievement>
+            <achievement id="4">3rd Place Physics in National Science Olimpiad Cimahi 2019</achievement>
+        </achievements>
+        <courses>
+            <course id="1">Health Edu Webinar “Everywhere We Go We Stay Healthy”</course>
+            <course id="2">Robots on Intellgent System Webinar</course>
+            <course id="3">First International Conference on Arts and Culture (ICAC)</course>
+            <course id="4">2nd ASEAN Symposium for Science, Engineering, Economic and Education (ASSEEE) Student Symposium</course>
+            <course id="5">Webinar Series UPI ALUMNI AND EXECUTIVE GATHERING "Challenges and Opportunities in New Normal"</course>
+        </courses>
+        <skills>
+            <skill id="1">
+                <sk_name>Videography</sk_name>
+                <percentage>50</percentage>
+            </skill>
+            <skill id="2">
+                <sk_name>Ms. Office</sk_name>
+                <percentage>70</percentage>
+            </skill>
+        </skills>
+        <hobbies>
+            <hobby id="1">Reading</hobby>
+            <hobby id="2">Listening Music</hobby>
+            <hobby id="3">Travelling</hobby>
+            <hobby id="3">Watching Movies</hobby>
+            <hobby id="3">Culinary</hobby>
+        </hobbies>
+        <contacts>
+            <email>juliaelis27@gmail.com</email>
+            <phone_number>088220341998</phone_number>
+            <instagram_account>https://instagram.com/juliaaelis</instagram_account>
+            <linkedin>https://linkedin.com/in/juliaelisabeth</linkedin>
+            <facebook>https://www.facebook.com/profile.php?id=100024066639941</facebook>
+        </contacts>
+    </member>
+</member_list>

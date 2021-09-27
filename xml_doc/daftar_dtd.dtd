@@ -1,0 +1,41 @@
+<!ELEMENT member_list (member+)>
+<!ELEMENT member (profile, education, organizations?, achievements?, courses?, skills?, hobbies?)>
+<!ATTLIST member id ID #REQUIRED>
+<!ELEMENT profile (photo, fullname, profession, section, instantion)>
+<!ELEMENT photo (#PCDATA)>
+<!ELEMENT fullname (#PCDATA)>
+<!ELEMENT profession (#PCDATA)>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT instantion (#PCDATA)>
+<!ELEMENT education (school)>
+<!ELEMENT school (sch_name, sch_from, sch_until)>
+<!ATTLIST school type (elementary|junior-hs|senior-hs|university) "university">
+<!ELEMENT sch_name (#PCDATA)>
+<!ELEMENT sch_from (#PCDATA)>
+<!ELEMENT sch_until (#PCDATA)>
+<!ELEMENT organizations (organization+)>
+<!ELEMENT organization (org_name, org_from, org_until)>
+<!ATTLIST organization id ID #REQUIRED>
+<!ELEMENT org_name (#PCDATA)>
+<!ELEMENT org_from (#PCDATA)>
+<!ELEMENT org_until (#PCDATA)>
+<!ELEMENT achievements (achievement+)>
+<!ELEMENT achievement (#PCDATA)>
+<!ATTLIST achievement id ID #REQUIRED>
+<!ELEMENT courses (course)>
+<!ELEMENT course (#PCDATA)>
+<!ATTLIST course id ID #REQUIRED>
+<!ELEMENT skills (skill)>
+<!ELEMENT skill (sk_name, percentage)>
+<!ATTLIST skill id ID #REQUIRED>
+<!ELEMENT sk_name (#PCDATA)>
+<!ELEMENT percentage (#PCDATA)>
+<!ELEMENT hobbies (hobby)>
+<!ELEMENT hobby (#PCDATA)>
+<!ATTLIST hobby id ID #REQUIRED>
+<!ELEMENT contacts (email, phone_number, instagram_account, linkedin, facebook)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone_number (#PCDATA)>
+<!ELEMENT instagram_account (#PCDATA)>
+<!ELEMENT linkedin (#PCDATA)>
+<!ELEMENT facebook (#PCDATA)>
